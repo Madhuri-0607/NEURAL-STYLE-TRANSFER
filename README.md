@@ -1,9 +1,9 @@
-COMPANY: CODTECH IT SOLUTIONS 
-NAME: MOTHUKURI MADHURI  
-INTERN ID: C0DF104 
-DOMAIN: Artificial Intelligence Markup Language (AIML Internship) 
-DURATION: 4 WEEKS 
-MENTOR: NEELA SANTHOSH 
+COMPANY: CODTECH IT SOLUTIONS   
+NAME: MOTHUKURI MADHURI    
+INTERN ID: C0DF104   
+DOMAIN: Artificial Intelligence Markup Language (AIML Internship)   
+DURATION: 4 WEEKS   
+MENTOR: NEELA SANTHOSH   
 
 
 # NEURAL-STYLE-TRANSFER
@@ -48,7 +48,7 @@ Stylized Image: ![WhatsApp Image 2025-05-19 at 15 07 18_f0cec0ad](https://github
 📥 Installation
 Clone the repository: 
 
-git clone https://github.com/Madhuri-0607/neural-style-transfer.git 
+git clone https://github.com/Madhuri-0607/neural-style-transfer.git   
 cd neural-style-transfer 
 
 Install dependencies: 
@@ -70,14 +70,14 @@ python style_transfer.py
 
 * The result is displayed and saved. 
 
-📁 Directory Structure 
+📁 Directory Structure  
 
-.
-├── style_transfer.py 
-├── requirements.txt 
-├── content.jpg 
-├── style.jpg 
-└── output.jpg 
+.  
+├── style_transfer.py   
+├── requirements.txt   
+├── content.jpg   
+├── style.jpg   
+└── output.jpg   
 
 📚 References 
 Gatys et al., "Image Style Transfer Using Convolutional Neural Networks", CVPR 2016 
